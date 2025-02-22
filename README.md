@@ -31,15 +31,15 @@ This project presents an **interactive Power BI dashboard** analyzing **Stack Ov
 
 ### 🌍 Main Dashboard - User Demographics & Engagement  
 Displays **age groups, countries, employment status, work experience, and Stack Overflow engagement levels**.  
-![Main Dashboard](.png)  
+![Main Dashboard](user_demographics_and_engagement.png)  
 
 ### 🖥️ Technology Usage & Preferences  
 Analysis of **programming languages, platforms, databases, and AI tool preferences**.  
-![Technology Usage](images/technology_usage.png)  
+![Technology Usage](technology_usage_and_preference.png)  
 
 ### 📊 Drill-Through Analysis by Country  
 Detailed **breakdown of education levels, employment types, industry, and remote work preferences** for each country.  
-![Drill-Through Dashboard](images/drill_through_dashboard.png)  
+![Drill-Through Dashboard](analysis_by_country.png)  
 
 ## 🚀 Future Enhancements  
 - **Incorporate machine learning** to predict trends in technology adoption.  
