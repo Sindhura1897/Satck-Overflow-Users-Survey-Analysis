@@ -45,5 +45,3 @@ Detailed **breakdown of education levels, employment types, industry, and remote
 - **Incorporate machine learning** to predict trends in technology adoption.  
 - **Enhance interactivity** with more dynamic filtering options.  
 - **Expand analysis** to include career progression trends over time.  
-
-🔗 **GitHub Repository**: [Project Link](https://github.com/Sindhura1897/Satck-Overflow-Users-Survey-Analysis)  
